@@ -1,7 +1,6 @@
 Data Types and Data Structures
 
 Data Types
-Data Structures
 Array
 Linked List
 Tree
